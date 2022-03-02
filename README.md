@@ -1,7 +1,7 @@
 # Library-Management-System
 
 ### Intro
-2nd semester computer science project. A simple library thet stores information of students and books and perform typical library related functions like issueing and returning books. 
+2nd semester computer science project. A simple library that stores information of students and books and perform typical library related functions like issueing and returning books. 
 
 ### Implementation
 The project is implemented using the concept of linked list. Bubble Sort algorithm is also used.
